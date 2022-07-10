@@ -1,0 +1,14 @@
+C:\Users\msi1\source\repos\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.csproj.AssemblyReference.cache
+C:\Users\msi1\source\repos\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\msi1\source\repos\DesignPatterns_Lab1\DesignPatterns_Lab1\bin\Debug\DesignPatterns_Lab1.exe.config
+C:\Users\msi1\source\repos\DesignPatterns_Lab1\DesignPatterns_Lab1\bin\Debug\DesignPatterns_Lab1.exe
+C:\Users\msi1\source\repos\DesignPatterns_Lab1\DesignPatterns_Lab1\bin\Debug\DesignPatterns_Lab1.pdb
+C:\Users\msi1\source\repos\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.exe
+C:\Users\msi1\source\repos\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.pdb
+C:\Users\msi1\Desktop\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.csproj.AssemblyReference.cache
+C:\Users\msi1\Desktop\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\msi1\Desktop\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.exe
+C:\Users\msi1\Desktop\DesignPatterns_Lab1\DesignPatterns_Lab1\obj\Debug\DesignPatterns_Lab1.pdb
+C:\Users\msi1\Desktop\DesignPatterns_Lab1\DesignPatterns_Lab1\bin\Debug\DesignPatterns_Lab1.exe.config
+C:\Users\msi1\Desktop\DesignPatterns_Lab1\DesignPatterns_Lab1\bin\Debug\DesignPatterns_Lab1.exe
+C:\Users\msi1\Desktop\DesignPatterns_Lab1\DesignPatterns_Lab1\bin\Debug\DesignPatterns_Lab1.pdb
